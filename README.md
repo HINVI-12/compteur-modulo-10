@@ -2,9 +2,16 @@
 ### Conception d'un circuit logique
 
 ![Schéma du montage](schema/compteur_modulo_10.png)
-![Schéma du montage](schema/schema-fonctionnel.png)
-![Schéma du montage](schema/comp_modulo_10.png)
-![video du projet](video/compteur_modulo_10.mp4)
+
+### Schema fonctionnel
+![Schéma fonctionnel](schema/schema-fonctionnel.png)
+
+### Image du câblage
+![Image du montage](schema/comp_modulo_10.png)
+
+### Video du projet
+
+[![Regarder la démo](https://img.youtube.com/vi/8WjU-OE5N-w/0.jpg)](https://youtu.be/8WjU-OE5N-w)
 
 ## Objectif du projet
 
